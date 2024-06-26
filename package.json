@@ -9,6 +9,6 @@
   "license": "ISC",
   "description": "",
   "publishConfig": {
-    "@zones-de-genie:registry": "https://npm.pkg.github.com"
+    "@Zones-de-Genie:registry": "https://npm.pkg.github.com"
   }
 }
