@@ -7,8 +7,5 @@
   },
   "author": "",
   "license": "ISC",
-  "description": "",
-  "publishConfig": {
-    "@Zones-de-Genie:registry": "https://npm.pkg.github.com"
-  }
+  "description": ""
 }
