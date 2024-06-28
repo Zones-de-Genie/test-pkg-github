@@ -4,4 +4,8 @@ const testFunc = () => {
   return "hellooooooo";
 };
 
-module.exports = testFunc;
+const funcUpdate = () => {
+  return "update has been done";
+};
+
+module.exports = { testFunc, funcUpdate };
